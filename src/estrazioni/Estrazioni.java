@@ -1,5 +1,5 @@
 /*
- * Estrazioni.
+ * Estrazioni con controllo versione.
  */
 package estrazioni;
 
